@@ -5,8 +5,8 @@
 %global crate gstreamer-sys
 
 Name:           rust-%{crate}
-Version:        0.8.1
-Release:        2%{?dist}
+Version:        0.25.2
+Release:        1%{?dist}
 Summary:        FFI bindings to libgstreamer-1.0
 
 # Upstream license specification: MIT
